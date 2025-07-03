@@ -12,7 +12,7 @@ A responsive computer store landing page built with HTML and CSS.
 - CSS
 
 # 🌐 Live Demo
-
+-  https://mistaken-identity.github.io/computer-store-landing-page/
 
 # 📸 Screenshot
 
