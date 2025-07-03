@@ -1,4 +1,20 @@
-# Computer store landing page
+# COMPUTER-STORE-LANDING-PAGE
 
-A code created by Teflon Inc.
+A responsive computer store landing page built with HTML and CSS.
+
+# 🚀 Features
+- Responsive layout
+- Mobile-friendly
+- Clean UI
+
+# 🛠️ Technologies
+- HTML
+- CSS
+
+# 🌐 Live Demo
+
+
+# 📸 Screenshot
+
+
 
